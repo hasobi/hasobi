@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 # My name is Hasobi Ro'id Radityo
 
 - 🔭 I’m a fresh graduate of which have experience in DevOps and SRE.
+- :video_game: I had research in Machine Learning and Cybersecurity.
