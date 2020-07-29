@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# 👋 Hello, there!
+# My name is Hasobi Ro'id Radityo
+
+- 🔭 I’m a fresh graduate of which have experience in DevOps and SRE.
