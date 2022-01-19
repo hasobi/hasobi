@@ -1,7 +1,7 @@
 # 👋 Hello, there!
 # My name is Hasobi R. Radityo
 
-- 🔭 I have passion in DevOps cybersecurity;
+- 🔭 I have passion in DevOps and Cybersecurity;
 - 🥾 I'm working at Indonesian finance service authority;
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
 - 🌱 I’m currently learning Go and GraphQL; 
